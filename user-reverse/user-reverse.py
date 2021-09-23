@@ -1,6 +1,6 @@
 arr = []
 
-n = int(input("enter tyhe length of the arrray:"))
+n = int(input("enter type length of the arrray:"))
 for i in range(n):
     user = int(input("Insert number:"))
     arr.append(user)
